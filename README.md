@@ -39,3 +39,6 @@ Bad weather significantly impacts on-time performance and customer behavior
 Proactive contingency planning can reduce cancellations and improve customer experience
 Airlines can use insights for better scheduling, communication, and resource management
 
+# Contact:
+Linkedin:www.linkedin.com/in/snigdha-sikdar-85b391377
+
